@@ -8,7 +8,7 @@
 
 [Linera](https://linera.io) is a decentralized blockchain infrastructure designed for highly scalable,
 low-latency Web3 applications.
-
+ 
 Visit our [developer page](https://linera.dev) and read our
 [whitepaper](https://linera.io/whitepaper) to learn more about the Linera protocol.
 
